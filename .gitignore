@@ -1,0 +1,9 @@
+week05/log/*
+week05/output/*
+week05/result/*
+
+!week05/log/.gitkeep
+!week05/output/.gitkeep
+!week05/result/.gitkeep
+
+.vscode
