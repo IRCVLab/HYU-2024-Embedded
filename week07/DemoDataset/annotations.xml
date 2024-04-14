@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>705000</id>
+      <size>4</size>
+      <mode>interpolation</mode>
+      <overlap>2</overlap>
+      <bugtracker></bugtracker>
+      <created>2024-04-14 14:09:39.672282+00:00</created>
+      <updated>2024-04-14 14:15:35.669670+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>3</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>706501</id>
+          <start>0</start>
+          <stop>3</stop>
+          <url>https://app.cvat.ai/api/jobs/705000</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>soonminh</username>
+        <email>soonminh@hanyang.ac.kr</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>CenterLane</name>
+          <color>#fa3253</color>
+          <type>polyline</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Car</name>
+          <color>#3df53d</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Pedestrian</name>
+          <color>#b83df5</color>
+          <type>rectangle</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2024-04-14 14:16:17.089375+00:00</dumped>
+    <original_size>
+      <width>1600</width>
+      <height>900</height>
+    </original_size>
+  </meta>
+  <track id="0" label="Pedestrian" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="734.33" ytl="489.55" xbr="745.52" ybr="520.89" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="1" occluded="0" xtl="734.33" ytl="489.55" xbr="745.52" ybr="520.89" z_order="0">
+    </box>
+  </track>
+  <track id="1" label="Car" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="806.72" ytl="476.87" xbr="870.89" ybr="509.70" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="1" occluded="0" xtl="806.72" ytl="476.87" xbr="870.89" ybr="509.70" z_order="0">
+    </box>
+  </track>
+  <track id="2" label="Car" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="798.51" ytl="488.06" xbr="866.42" ybr="526.12" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="1" occluded="0" xtl="798.51" ytl="488.06" xbr="866.42" ybr="526.12" z_order="0">
+    </box>
+  </track>
+  <track id="3" label="Car" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="854.48" ytl="476.87" xbr="924.63" ybr="531.34" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="1" occluded="0" xtl="854.48" ytl="476.87" xbr="924.63" ybr="531.34" z_order="0">
+    </box>
+  </track>
+  <track id="4" label="Car" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="966.42" ytl="474.63" xbr="1004.48" ybr="501.49" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="1" occluded="0" xtl="966.42" ytl="474.63" xbr="1004.48" ybr="501.49" z_order="0">
+    </box>
+  </track>
+  <track id="5" label="Car" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1000.67" ytl="466.34" xbr="1024.63" ybr="486.57" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="1" occluded="0" xtl="1000.67" ytl="466.34" xbr="1024.63" ybr="486.57" z_order="0">
+    </box>
+  </track>
+  <track id="6" label="Car" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="999.25" ytl="486.49" xbr="1075.37" ybr="535.07" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="1" occluded="0" xtl="999.25" ytl="486.49" xbr="1075.37" ybr="535.07" z_order="0">
+    </box>
+  </track>
+  <track id="7" label="Car" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1105.22" ytl="480.52" xbr="1144.03" ybr="510.45" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="1" occluded="0" xtl="1105.22" ytl="480.52" xbr="1144.03" ybr="510.45" z_order="0">
+    </box>
+  </track>
+  <track id="8" label="Car" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1067.16" ytl="462.61" xbr="1089.55" ybr="482.09" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="1" occluded="0" xtl="1067.16" ytl="462.61" xbr="1089.55" ybr="482.09" z_order="0">
+    </box>
+  </track>
+  <track id="9" label="Pedestrian" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="188.06" ytl="482.09" xbr="232.09" ybr="597.76" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="1" occluded="0" xtl="188.06" ytl="482.09" xbr="232.09" ybr="597.76" z_order="0">
+    </box>
+  </track>
+  <track id="10" label="Pedestrian" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="535.82" ytl="483.58" xbr="560.45" ybr="545.52" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="1" occluded="0" xtl="535.82" ytl="483.58" xbr="560.45" ybr="545.52" z_order="0">
+    </box>
+  </track>
+  <track id="11" label="Pedestrian" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="584.33" ytl="482.09" xbr="611.19" ybr="555.22" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="1" occluded="0" xtl="584.33" ytl="482.09" xbr="611.19" ybr="555.22" z_order="0">
+    </box>
+  </track>
+  <track id="12" label="Pedestrian" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1370.89" ytl="452.98" xbr="1420.15" ybr="590.30" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="1" occluded="0" xtl="1370.89" ytl="452.98" xbr="1420.15" ybr="590.30" z_order="0">
+    </box>
+  </track>
+  <track id="13" label="Pedestrian" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1327.61" ytl="477.61" xbr="1357.46" ybr="555.22" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="1" occluded="0" xtl="1327.61" ytl="477.61" xbr="1357.46" ybr="555.22" z_order="0">
+    </box>
+  </track>
+  <track id="14" label="Pedestrian" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1248.51" ytl="476.12" xbr="1276.87" ybr="555.97" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="1" occluded="0" xtl="1248.51" ytl="476.12" xbr="1276.87" ybr="555.97" z_order="0">
+    </box>
+  </track>
+  <track id="15" label="Pedestrian" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="1285.82" ytl="483.58" xbr="1311.19" ybr="538.81" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="1" occluded="0" xtl="1285.82" ytl="483.58" xbr="1311.19" ybr="538.81" z_order="0">
+    </box>
+  </track>
+  <track id="16" label="Pedestrian" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="719.40" ytl="482.84" xbr="734.33" ybr="520.15" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="1" occluded="0" xtl="719.40" ytl="482.84" xbr="734.33" ybr="520.15" z_order="0">
+    </box>
+  </track>
+  <track id="17" label="CenterLane" source="manual">
+    <polyline frame="0" keyframe="1" outside="0" occluded="0" points="1064.92,471.64;929.10,535.82;776.12,595.52;698.51,629.10;597.01,691.04;356.72,899.25" z_order="0">
+    </polyline>
+    <polyline frame="1" keyframe="1" outside="1" occluded="0" points="1064.92,471.64;929.10,535.82;776.12,595.52;698.51,629.10;597.01,691.04;356.72,899.25" z_order="0">
+    </polyline>
+  </track>
+</annotations>
