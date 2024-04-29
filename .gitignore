@@ -6,4 +6,6 @@ week05/result/*
 !week05/output/.gitkeep
 !week05/result/.gitkeep
 
+*__pycache__*
+
 .vscode
