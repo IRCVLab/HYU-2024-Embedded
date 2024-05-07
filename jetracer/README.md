@@ -1,7 +1,7 @@
 
 # Install dependancy
 ```bash
-$ pip3 install ipywidgets pygame==2.0.3
+$ pip3 install -r requirements.txt
 ```
 
 # 1. Basic motion: throttling & steering
