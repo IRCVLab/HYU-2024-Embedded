@@ -196,10 +196,8 @@ if __name__ == '__main__':
         help = 'Print current FPS')
     args.add_argument('--yolo_model_file',
         type = str,
-        
-        # modifying default model
         default = 'yolov8n_traffic.pt',
-        choices = [None, 'yolov8n.pytorch.pt', 'yolov8n.pytorch.engine'],
+        choices = [None, 'yolov8n.pytorch.pt', 'yolov8n.pytorch.engine', 'yolov8n_traffic.pt'],
         help = 'YOLO model')
     args = args.parse_args()
 
